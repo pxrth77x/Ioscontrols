@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iOS Control Center</string>
+    <string name="xposed_desc">Opens an iOS-style Control Center from the top-right corner</string>
+    <string name="a11y_desc">Shows the Control Center overlay</string>
+</resources>
